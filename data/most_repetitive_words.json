@@ -1,0 +1,2002 @@
+[
+    {
+      "term": "Infallible",
+      "definition": "That never fails; always doing what it is supposed to do."
+    },
+    {
+      "term": "Misogynist",
+      "definition": "A person who dislikes women."
+    },
+    {
+      "term": "Philanthropist",
+      "definition": "A rich person who helps the poor and those in need, especially by giving money."
+    },
+    {
+      "term": "Misanthrope",
+      "definition": "A person who hates and avoids other people."
+    },
+    {
+      "term": "Bureaucracy",
+      "definition": "A system of government in which a large number of state officials are not elected."
+    },
+    {
+      "term": "Cannibal",
+      "definition": "A person who eats human flesh."
+    },
+    {
+      "term": "Claustrophobia",
+      "definition": "An extreme fear of being in a small confined place."
+    },
+    {
+      "term": "Egoist",
+      "definition": "A person who thinks he/she is better than other people and talks too much about himself/herself."
+    },
+    {
+      "term": "Elegy",
+      "definition": "A poem/song that expresses sadness, especially for somebody who has died."
+    },
+    {
+      "term": "Epilogue",
+      "definition": "A speech at the end of a play, book, or film/movie that acts as a conclusion to what has happened."
+    },
+    {
+      "term": "Epitaph",
+      "definition": "An inscription on a tombstone."
+    },
+    {
+      "term": "Fastidious",
+      "definition": "Being careful that every detail is correct; not liking things to be dirty or untidy."
+    },
+    {
+      "term": "Inevitable",
+      "definition": "Something that cannot be avoided or prevented."
+    },
+    {
+      "term": "Oligarchy",
+      "definition": "A form of government in which a small group of people hold all the power."
+    },
+    {
+      "term": "Optimist",
+      "definition": "A person who always expects good things to happen."
+    },
+    {
+      "term": "Panacea",
+      "definition": "Something that will solve all the problems of a particular situation."
+    },
+    {
+      "term": "Altruist",
+      "definition": "Someone who makes charitable donations intended to increase human well-being."
+    },
+    {
+      "term": "Aristocracy",
+      "definition": "Government by persons of the highest social order."
+    },
+    {
+      "term": "Atheist",
+      "definition": "A person who believes that God does not exist."
+    },
+    {
+      "term": "Calligraphy",
+      "definition": "Beautiful handwriting done with a special pen or brush."
+    },
+    {
+      "term": "Connoisseur",
+      "definition": "An expert on matters involving the judgment of beauty, quality, or skill in art, food, or music."
+    },
+    {
+      "term": "Fatalist",
+      "definition": "A person who believes that events are decided by fate and cannot be controlled."
+    },
+    {
+      "term": "Invincible",
+      "definition": "Too strong to be defeated or changed."
+    },
+    {
+      "term": "Mercenary",
+      "definition": "A soldier who will fight for any country or group that offers payment."
+    },
+    {
+      "term": "Ascetic",
+      "definition": "A person who lives in a simple and strict way, without physical pleasures, especially for religious reasons."
+    },
+    {
+      "term": "Carnivorous",
+      "definition": "Animals that eat meat."
+    },
+    {
+      "term": "Cartography",
+      "definition": "The art or process of drawing or making maps."
+    },
+    {
+      "term": "Etymology",
+      "definition": "The study of the origin and history of words and their meanings."
+    },
+    {
+      "term": "Homicide",
+      "definition": "The crime of killing somebody deliberately."
+    },
+    {
+      "term": "Iconoclast",
+      "definition": "A person who criticizes popular beliefs, customs, or ideas."
+    },
+    {
+      "term": "Illegible",
+      "definition": "Difficult or impossible to read."
+    },
+    {
+      "term": "Incorrigible",
+      "definition": "Having bad habits that cannot be changed or improved."
+    },
+    {
+      "term": "Insomnia",
+      "definition": "The condition of being unable to sleep."
+    },
+    {
+      "term": "Nepotism",
+      "definition": "Giving unfair advantages to your own family if you are in a position of power, especially by giving them jobs."
+    },
+    {
+      "term": "Obsolete",
+      "definition": "No longer used because something new has replaced it."
+    },
+    {
+      "term": "Patricide",
+      "definition": "The crime of killing one's father."
+    },
+    {
+      "term": "Philatelist",
+      "definition": "A person who collects or studies stamps."
+    },
+    {
+      "term": "Stoic",
+      "definition": "A person who is able to suffer pain or trouble without complaining or showing feelings."
+    },
+    {
+      "term": "Alien",
+      "definition": "Strange and frightening; different from what you are used to."
+    },
+    {
+      "term": "Amateur",
+      "definition": "A person who takes part in a sport or activity for enjoyment, not as a job."
+    },
+    {
+      "term": "Amnesia",
+      "definition": "A medical condition in which somebody partly or completely loses their memory."
+    },
+    {
+      "term": "Anarchy",
+      "definition": "A situation in which there is no government, order, or control."
+    },
+    {
+      "term": "Anthropology",
+      "definition": "The study of human origins, customs, and beliefs."
+    },
+    {
+      "term": "Archives",
+      "definition": "A collection of historical documents or records."
+    },
+    {
+      "term": "Credible",
+      "definition": "Something that can be believed or trusted."
+    },
+    {
+      "term": "Effeminate",
+      "definition": "Looking, behaving, or sounding like a woman."
+    },
+    {
+      "term": "Feminist",
+      "definition": "A person who supports equal rights and opportunities for women."
+    },
+    {
+      "term": "Genocide",
+      "definition": "The deliberate killing of a large number of people from a particular nation or ethnic group."
+    },
+    {
+      "term": "Gullible",
+      "definition": "Easily tricked because of being too trusting."
+    },
+    {
+      "term": "Honorarium",
+      "definition": "A payment made for professional services as a token of appreciation."
+    },
+    {
+      "term": "Imposter",
+      "definition": "A person who pretends to be someone else to deceive others."
+    },
+    {
+      "term": "Insolvent",
+      "definition": "A person not having enough money to pay what they owe."
+    },
+    {
+      "term": "Itinerary",
+      "definition": "A plan of a journey, including the route and places visited."
+    },
+    {
+      "term": "Monarchy",
+      "definition": "A system of government led by a king or queen."
+    },
+    {
+      "term": "Obituary",
+      "definition": "A notice of someone's death, often including their life achievements."
+    },
+    {
+      "term": "Ornithology",
+      "definition": "The scientific study of birds."
+    },
+    {
+      "term": "Plutocracy",
+      "definition": "Government by the richest people in a country."
+    },
+    {
+      "term": "Polyglot",
+      "definition": "A person who knows and uses multiple languages."
+    },
+    {
+      "term": "Sinecure",
+      "definition": "A job that requires little or no work but still pays."
+    },
+    {
+      "term": "Amnesty",
+      "definition": "An official pardon for people who have been imprisoned for political offenses."
+    },
+    {
+      "term": "Aquatic",
+      "definition": "Growing or living in water."
+    },
+    {
+      "term": "Archaeology",
+      "definition": "The study of past cultures through historical remains."
+    },
+    {
+      "term": "Biography",
+      "definition": "The story of a person’s life written by someone else."
+    },
+    {
+      "term": "Cynic",
+      "definition": "Someone who is critical of others' motives."
+    },
+    {
+      "term": "Emigrant",
+      "definition": "A person who leaves their country to settle in another."
+    },
+    {
+      "term": "Extempore",
+      "definition": "Spoken or done without previous thought or preparation."
+    },
+    {
+      "term": "Fanatic",
+      "definition": "Extremely enthusiastic about one's beliefs."
+    },
+    {
+      "term": "Hermit",
+      "definition": "A person who lives in solitude, often for religious reasons."
+    },
+    {
+      "term": "Kleptomania",
+      "definition": "A mental illness causing an uncontrollable urge to steal."
+    },
+    {
+      "term": "Notorious",
+      "definition": "Well-known for being bad."
+    },
+    {
+      "term": "Numismatist",
+      "definition": "A person who collects or studies coins or medals."
+    },
+    {
+      "term": "Ode",
+      "definition": "A poem that celebrates a person, thing, or event."
+    },
+    {
+      "term": "Pedant",
+      "definition": "A person who pays excessive attention to formal rules."
+    },
+    {
+      "term": "Philology",
+      "definition": "The study of languages and their development."
+    },
+    {
+      "term": "Red Tape",
+      "definition": "Excessive bureaucracy and regulations."
+    },
+    {
+      "term": "Reticent",
+      "definition": "Unwilling to share thoughts or feelings."
+    },
+    {
+      "term": "Sacrilege",
+      "definition": "Treating a sacred thing or place with disrespect."
+    },
+    {
+      "term": "Sonnet",
+      "definition": "A poem with 14 lines and a fixed rhyme scheme."
+    },
+    {
+      "term": "Theocracy",
+      "definition": "A government run by religious leaders."
+    },
+    {
+      "term": "Xenophobia",
+      "definition": "A fear or hatred of foreigners."
+    },
+    {
+      "term": "Abolish",
+      "definition": "To formally end a system or practice."
+    },
+    {
+      "term": "Accomplice",
+      "definition": "A person who helps another commit a crime."
+    },
+    {
+      "term": "Agenda",
+      "definition": "A list of topics to be discussed in a meeting."
+    },
+    {
+      "term": "Apiary",
+      "definition": "A place where bees are kept."
+    },
+    {
+      "term": "Aquarium",
+      "definition": "A glass tank where fish and water plants are kept."
+    },
+    {
+      "term": "Atheism",
+      "definition": "The belief that God does not exist."
+    },
+    {
+      "term": "Autocracy",
+      "definition": "A system of government in which one person has complete power."
+    },
+    {
+      "term": "Aviary",
+      "definition": "A place where birds are kept."
+    },
+    {
+      "term": "Ballad",
+      "definition": "A song or poem that tells a story."
+    },
+    {
+      "term": "Bibliography",
+      "definition": "A list of books or sources on a subject."
+    },
+    {
+      "term": "Bigot",
+      "definition": "A person who has strong, unreasonable beliefs."
+    },
+    {
+      "term": "Bohemian",
+      "definition": "A person who lives an unconventional artistic lifestyle."
+    },
+    {
+      "term": "Brittle",
+      "definition": "Hard but easily broken."
+    },
+    {
+      "term": "Chauffeur",
+      "definition": "A person employed to drive a car for someone important."
+    },
+    {
+      "term": "Cosmopolitan",
+      "definition": "A person experienced in many cultures."
+    },
+    {
+      "term": "Democracy",
+      "definition": "Government by elected representatives."
+    },
+    {
+      "term": "Dictatorship",
+      "definition": "Government by a ruler with absolute power."
+    },
+    {
+      "term": "Eccentric",
+      "definition": "A person with unusual or strange behavior."
+    },
+    {
+      "term": "Entomology",
+      "definition": "The study of insects."
+    },
+    {
+      "term": "Epicure",
+      "definition": "A person who enjoys and knows a lot about fine food and drink."
+    },
+    {
+        "term": "Ethnology",
+        "definition": "The scientific study and comparison of human races."
+    },
+    {
+        "term": "Exonerate",
+        "definition": "To officially state that somebody is not responsible for something they have been blamed for."
+    },
+    {
+        "term": "Extravagant",
+        "definition": "Spending a lot more money/using a lot more of something than necessary."
+    },
+    {
+        "term": "Fauna",
+        "definition": "All the animals living in an area or a particular period of history."
+    },
+    {
+        "term": "Fratricide",
+        "definition": "The crime of killing your brother/sister."
+    },
+    {
+        "term": "Glutton",
+        "definition": "A person who eats too much."
+    },
+    {
+        "term": "Hypochondriac",
+        "definition": "A person who is always worried about their health and imagines they are ill when they are not."
+    },
+    {
+        "term": "Hypocrite",
+        "definition": "A person who pretends to have moral standards/opinions that they do not actually have."
+    },
+    {
+        "term": "Immigrant",
+        "definition": "A person who moves to a country where they were not born to settle there."
+    },
+    {
+        "term": "Inaudible",
+        "definition": "That cannot be heard."
+    },
+    {
+        "term": "Incredible",
+        "definition": "Impossible/difficult to believe."
+    },
+    {
+        "term": "Indefatigable",
+        "definition": "Never giving up or getting tired of doing something."
+    },
+    {
+        "term": "Indigenous",
+        "definition": "Originating or occurring naturally in a place; native."
+    },
+    {
+        "term": "Ineffable",
+        "definition": "Too great/beautiful to describe in words."
+    },
+    {
+        "term": "Intestate",
+        "definition": "Having made no legal will."
+    },
+    {
+        "term": "Lexicographer",
+        "definition": "A person who writes and edits dictionaries."
+    },
+    {
+        "term": "Manuscript",
+        "definition": "A copy of a book, music, etc., before it has been printed."
+    },
+    {
+        "term": "Martyr",
+        "definition": "A person who suffers/killed because of their beliefs."
+    },
+    {
+        "term": "Matricide",
+        "definition": "The act of killing one’s mother."
+    },
+    {
+        "term": "Mortuary",
+        "definition": "A place where dead bodies are kept before burial/cremation."
+    },
+    {
+        "term": "Narcissist",
+        "definition": "A person who admires themselves too much."
+    },
+    {
+        "term": "Omnivorous",
+        "definition": "Eating both plant and animal-based food."
+    },
+    {
+        "term": "Opaque",
+        "definition": "Not clear enough to see through."
+    },
+    {
+        "term": "Pacifist",
+        "definition": "A person who believes that war and violence are always wrong."
+    },
+    {
+        "term": "Parable",
+        "definition": "A short story that teaches a moral/spiritual lesson."
+    },
+    {
+        "term": "Philistine",
+        "definition": "A person who does not appreciate or understand art, literature, etc."
+    },
+    {
+        "term": "Plagiarism",
+        "definition": "Copying someone else’s work/ideas and claiming them as your own."
+    },
+    {
+        "term": "Polygamy",
+        "definition": "The custom of having more than one spouse at the same time."
+    },
+    {
+        "term": "Psychology",
+        "definition": "The scientific study of the mind and behavior."
+    },
+    {
+        "term": "Recluse",
+        "definition": "A person who lives alone and avoids others."
+    },
+    {
+        "term": "Regicide",
+        "definition": "The crime of killing a king/queen."
+    },
+    {
+        "term": "Sanatorium",
+        "definition": "A place for long-term medical treatment."
+    },
+    {
+        "term": "Secular",
+        "definition": "Not connected with religion."
+    },
+    {
+        "term": "Soliloquy",
+        "definition": "A speech by a character alone on stage, expressing their thoughts."
+    },
+    {
+        "term": "Suicide",
+        "definition": "The act of deliberately killing oneself."
+    },
+    {
+        "term": "Translucent",
+        "definition": "Allowing light to pass through but not completely transparent."
+    },
+    {
+        "term": "Transparent",
+        "definition": "Allowing light to pass through so objects behind can be clearly seen."
+    },
+    {
+        "term": "Wreath",
+        "definition": "A circular arrangement of flowers/leaves used for decoration or tribute."
+    },
+    {
+        "term": "Abdicate",
+        "definition": "To give up a position of power, especially as a king/queen."
+    },
+    {
+        "term": "Affable",
+        "definition": "Friendly, pleasant, and easy to talk to."
+    },
+    {
+        "term": "Ambidextrous",
+        "definition": "Able to use both hands equally well."
+    },
+    {
+        "term": "Amphibians",
+        "definition": "Cold-blooded animals that can live both in water and on land."
+    },
+    {
+        "term": "Anarchist",
+        "definition": "A person who believes in the absence of government and laws."
+    },
+    {
+        "term": "Apathy",
+        "definition": "Lack of interest, enthusiasm, or concern."
+    },
+    {
+        "term": "Archipelago",
+        "definition": "A group or chain of islands."
+    },
+    {
+        "term": "Asylum",
+        "definition": "Protection given to political refugees; a mental hospital."
+    },
+    {
+        "term": "Audible",
+        "definition": "Able to be heard."
+    },
+    {
+        "term": "Authentic",
+        "definition": "Genuine, real, or original."
+    },
+    {
+        "term": "Autobiography",
+        "definition": "A biography written by the person it is about."
+    },
+    {
+        "term": "Blasphemy",
+        "definition": "Disrespectful behavior or speech toward sacred things."
+    },
+    {
+        "term": "Carnivore",
+        "definition": "An animal that eats meat."
+    },
+    {
+        "term": "Catalogue",
+        "definition": "A complete list of items, usually with details."
+    },
+    {
+        "term": "Circumlocution",
+        "definition": "The use of more words than necessary; indirect speech."
+    },
+    {
+        "term": "Congregation",
+        "definition": "A group of people gathered for religious worship."
+    },
+    {
+        "term": "Cordial",
+        "definition": "Warm, sincere, and friendly."
+    },
+    {
+        "term": "Credulous",
+        "definition": "Too ready to believe things; easily deceived."
+    },
+    {
+        "term": "Curator",
+        "definition": "A person in charge of a museum or collection."
+    },
+    {
+        "term": "Demagogue",
+        "definition": "A leader who gains power by appealing to emotions rather than reason."
+    },
+    {
+        "term": "Dermatology",
+        "definition": "The branch of medicine dealing with skin diseases."
+    },
+    {
+        "term": "Dilettante",
+        "definition": "A person who dabbles in an art or field of knowledge without serious commitment."
+    },
+    {
+        "term": "Ecology",
+        "definition": "The study of relationships between organisms and their environment."
+    },
+    {
+        "term": "Edible",
+        "definition": "Safe or suitable for eating."
+    },
+    {
+        "term": "Emissary",
+        "definition": "A representative sent on a diplomatic mission."
+    },
+    {
+        "term": "Empathy",
+        "definition": "The ability to understand and share another’s feelings."
+    },
+    {
+        "term": "Endemic",
+        "definition": "Regularly found in a certain area or among certain people."
+    },
+    {
+        "term": "Ephemeral",
+        "definition": "Lasting for only a short time."
+    },
+    {
+        "term": "Epigraph",
+        "definition": "An engraved inscription or short quote at the beginning of a book."
+    },
+    {
+        "term": "Epitome",
+        "definition": "A perfect example of something."
+    },
+    {
+        "term": "Eternal",
+        "definition": "Lasting forever."
+    },
+    {
+        "term": "Exemplary",
+        "definition": "Serving as a model or warning."
+    },
+    {
+        "term": "Expatriate",
+        "definition": "A person living outside their native country."
+    },
+    {
+        "term": "Fidelity",
+        "definition": "Faithfulness and loyalty."
+    },
+    {
+        "term": "Fugitive",
+        "definition": "A person who has escaped or is in hiding."
+    },
+    {
+        "term": "Geography",
+        "definition": "The study of Earth’s physical features and human activity."
+    },
+    {
+        "term": "Gregarious",
+        "definition": "Sociable; enjoying the company of others."
+    },
+    {
+        "term": "Hallucination",
+        "definition": "Seeing or hearing things that are not really there."
+    },
+    {
+        "term": "Hedonist",
+        "definition": "A person who believes pleasure is the most important thing in life."
+    },
+    {
+        "term": "Herbivorous",
+        "definition": "Feeding only on plants."
+    },
+    {
+        "term": "Heresy",
+        "definition": "A belief that goes against religious doctrine."
+    },
+    {
+        "term": "Honorary",
+        "definition": "Given as an honor without the usual obligations."
+    },
+    {
+        "term": "Horticulture",
+        "definition": "The practice of gardening and growing plants."
+    },
+    {
+        "term": "Illiterate",
+        "definition": "Unable to read or write."
+    },
+    {
+        "term": "Immovable",
+        "definition": "Impossible to move."
+    },
+    {
+        "term": "Imperceptible",
+        "definition": "Not noticeable."
+    },
+    {
+        "term": "Infallible",
+        "definition": "Incapable of making mistakes."
+    },
+    {
+        "term": "Insomnia",
+        "definition": "Inability to sleep."
+    },
+    {
+        "term": "Invincible",
+        "definition": "Too powerful to be defeated."
+    },
+    {
+        "term": "Itinerary",
+        "definition": "A planned route or journey."
+    },
+    {
+        "term": "Jubilation",
+        "definition": "A feeling of great happiness."
+    },
+    {
+        "term": "Jurisprudence",
+        "definition": "The study of law."
+    },
+    {
+        "term": "Lethargic",
+        "definition": "Lacking energy."
+    },
+    {
+        "term": "Misanthrope",
+        "definition": "A person who dislikes others."
+    },
+    {
+        "term": "Monarchy",
+        "definition": "A government ruled by a king or queen."
+    },
+    {
+        "term": "Nomadic",
+        "definition": "Moving from place to place."
+    },
+    {
+        "term": "Optimist",
+        "definition": "A person who expects good outcomes."
+    },
+    {
+        "term": "Pediatrician",
+        "definition": "A doctor who treats children."
+    },
+    {
+        "term": "Perennial",
+        "definition": "Lasting for a long time."
+    },
+    {
+        "term": "Quarantine",
+        "definition": "Isolation to prevent disease spread."
+    },
+    {
+        "term": "Ubiquitous",
+        "definition": "Present everywhere."
+    },
+    {
+        "term": "Zephyr",
+        "definition": "A soft, gentle breeze."
+    },
+    {
+        "term": "Philogynist",
+        "definition": "A person who esteems woman as the higher type of humanity"
+    },
+    {
+        "term": "Philosophy",
+        "definition": "The study of the nature and meaning of the universe and of human life"
+    },
+    {
+        "term": "Physiology",
+        "definition": "The study of the normal functions of living things"
+    },
+    {
+        "term": "Polyandry",
+        "definition": "The custom of having more than one husband at the same time"
+    },
+    {
+        "term": "Prologue",
+        "definition": "A speech, etc. at the beginning of a play, book, or film that introduces it"
+    },
+    {
+        "term": "Psephology",
+        "definition": "The study of how people vote in elections"
+    },
+    {
+        "term": "Pseudonym",
+        "definition": "A fictitious name used instead of his real names"
+    },
+    {
+        "term": "Scullery",
+        "definition": "A small room next to the kitchen in an old house, originally used for washing dishes, etc."
+    },
+    {
+        "term": "Sociology",
+        "definition": "The study and classification of human societies"
+    },
+    {
+        "term": "Spinster",
+        "definition": "An old unmarried woman"
+    },
+    {
+        "term": "Stoicism",
+        "definition": "The fact of not explaining/showing what you are feeling when you are suffering"
+    },
+    {
+        "term": "Theist",
+        "definition": "One who believes in the existence of God"
+    },
+    {
+        "term": "Universal",
+        "definition": "Done by or involving all the people in the world or in a particular group"
+    },
+    {
+        "term": "Versatile",
+        "definition": "Able to do many things"
+    },
+    {
+        "term": "Zoology",
+        "definition": "The branch of biology that studies animals"
+    },
+    {
+        "term": "Abduct",
+        "definition": "To take somebody away illegally, especially using force"
+    },
+    {
+        "term": "Absolute",
+        "definition": "One who is perfect/complete/free from imperfection"
+    },
+    {
+        "term": "Acquit",
+        "definition": "To decide and state officially in court that somebody is not guilty of a crime"
+    },
+    {
+        "term": "Acrophobia",
+        "definition": "Fear of great heights"
+    },
+    {
+        "term": "Actuary",
+        "definition": "Someone versed in the collection and interpretation of numerical data (especially someone who uses statistics to calculate insurance premiums)"
+    },
+    {
+        "term": "Addict",
+        "definition": "A person who is very interested in something and spends a lot of his free time in it // a person who is unable to stop taking harmful drugs"
+    },
+    {
+        "term": "Adolescent",
+        "definition": "In the process of developing from a child into an adult"
+    },
+    {
+        "term": "Aerial",
+        "definition": "Growing / existing in air"
+    },
+    {
+        "term": "Agnostic",
+        "definition": "A person who doubts truth of religion"
+    },
+    {
+        "term": "Alimony",
+        "definition": "The money that a court orders somebody to pay regularly to his former wife/ husband when the marriage is ended"
+    },
+    {
+        "term": "Allegory",
+        "definition": "A story, play, picture, etc. in which each character/event is a symbol representing an idea/a quality, such as truth, evil, death, etc."
+    },
+    {
+        "term": "Ambiguous",
+        "definition": "That can be understood in more than one way // not clearly defined or stated"
+    },
+    {
+        "term": "Ambivert",
+        "definition": "A person who is both an introvert and an extrovert"
+    },
+    {
+        "term": "Amoral",
+        "definition": "Not following any moral rules and not caring about right/wrong"
+    },
+    {
+        "term": "Anecdote",
+        "definition": "A short, interesting or amusing story about a real person or an event"
+    },
+    {
+        "term": "Anonymous",
+        "definition": "With a name that is not known/ that is not made public"
+    },
+    {
+        "term": "Antidote",
+        "definition": "A substance that controls the effects of poison/ disease"
+    },
+    {
+        "term": "Antiseptic",
+        "definition": "A substance that helps to prevent infection in wounds by killing bacteria"
+    },
+    {
+        "term": "Apathetic",
+        "definition": "Showing or feeling no interest, enthusiasm, or concern"
+    },
+    {
+        "term": "Apprentice",
+        "definition": "A person who works for an expert to learn a trade"
+    },
+    {
+        "term": "Arbitrator",
+        "definition": "A person who is chosen to settle a disagreement"
+    },
+    {
+        "term": "Archaeologist",
+        "definition": "A person who studies cultures of the past, and of periods of history by examining the remains of buildings and objects found in the ground"
+    },
+    {
+        "term": "Articulate",
+        "definition": "Good at expressing ideas/ feelings clearly in words (speech)"
+    },
+    {
+        "term": "Artist",
+        "definition": "A person who creates works of art- paintings/ drawings"
+    },
+    {
+        "term": "Avarice",
+        "definition": "Extreme desire for wealth"
+    },
+    {
+        "term": "Barometer",
+        "definition": "An instrument for measuring air pressure to show when the weather will change"
+    },
+    {
+        "term": "Beneficiary",
+        "definition": "A person who gains as a results of something"
+    },
+    {
+        "term": "Bibliographer",
+        "definition": "Someone trained in compiling books/articles about a particular subject"
+    },
+    {
+        "term": "Bibliophile",
+        "definition": "A person who loves or collects books"
+    },
+    {
+        "term": "Bouquet",
+        "definition": "A bunch of flowers arranged in an attractive way so that it can be carried in a ceremony/presented as a gift"
+    },
+    {
+        "term": "Bovine",
+        "definition": "Connected with cows"
+    },
+    {
+        "term": "Calligrapher",
+        "definition": "Someone skilled in penmanship (calligraphy beautiful writing done with a special pen/brush)"
+    },
+    {
+        "term": "Callous",
+        "definition": "Not caring about other people‚Äôs feelings or suffering"
+    },
+    {
+        "term": "Cellar",
+        "definition": "An underground room often used for storing things (wine, salt, etc.)"
+    },
+    {
+        "term": "Centenarian",
+        "definition": "A person who is a 100 years old or more"
+    },
+    {
+        "term": "Choreography",
+        "definition": "The act of designing and arranging the steps"
+    },
+    {
+        "term": "Colleague",
+        "definition": "A person that one work with at the same place, in a profession or a business"
+    },
+    {
+        "term": "Communist",
+        "definition": "A person who believes in or supports living together and sharing possessions and responsibilities"
+    },
+    {
+        "term": "Compromise",
+        "definition": "An agreement made between two people or groups"
+    },
+    {
+        "term": "Conservative",
+        "definition": "Holding to traditional attitudes and values and cautious about change or innovation // a person who is opposed to great/sudden social change"
+    },
+    {
+        "term": "Criminal",
+        "definition": "Connected with crime"
+    },
+    {
+        "term": "Culpable",
+        "definition": "Responsible and deserving blame for having done something wrong"
+    },
+    {
+        "term": "Cynosure",
+        "definition": "Centre of attraction"
+    },
+    {
+        "term": "Derelict",
+        "definition": "A person without a home, a job or property"
+    },
+    {
+        "term": "Dialogue",
+        "definition": "Conversations in a look, play or film/movie"
+    },
+    {
+        "term": "Dipsomania",
+        "definition": "An intense persistent desire to drink alcoholic beverages to excess"
+    },
+    {
+        "term": "Dirge",
+        "definition": "A song sung in the past at a funeral or for a dead person"
+    },
+    {
+        "term": "Effaced",
+        "definition": "Remove completely from recognition/memory // remove by or as if by rubbing / erasing"
+    },
+    {
+        "term": "Egotist",
+        "definition": "A person who is excessively conceited or absorbed in themselves"
+    },
+    {
+        "term": "Eligible",
+        "definition": "A person who is able to have/do something because he has the right qualifications, is the right age, etc."
+    },
+    {
+        "term": "Emancipation",
+        "definition": "Freeing someone from the control of another"
+    },
+    {
+        "term": "Embezzlement",
+        "definition": "The act of stealing money that you are responsible for or that belongs to your employer / misappropriation of money"
+    },
+    {
+        "term": "Emeritus",
+        "definition": "One who is honorably discharged from service"
+    },
+    {
+        "term": "Ennui",
+        "definition": "A state of mental weariness from lack of occupation"
+    },
+    {
+        "term": "Entomologist",
+        "definition": "A zoologist (person) who studies insects"
+    },
+    {
+        "term": "Envious",
+        "definition": "Feeling of discontented aroused by someone else's possessions or qualities"
+    },
+    {
+        "term": "Environment",
+        "definition": "The conditions that affect the behaviour and development of somebody/ something"
+    },
+    {
+        "term": "Epidemic",
+        "definition": "A large number of cases of a particular disease happening at the same time in a particular community"
+    },
+    {
+        "term": "Epigram",
+        "definition": "A short poem/ phrase that expresses an idea in a clever/amusing way"
+    },
+    {
+        "term": "Eulogy",
+        "definition": "A speech/piece of writing praising somebody/ something very much"
+    },
+    {
+        "term": "Euphemism",
+        "definition": "An indirect word/phrase that people often use to refer to something embarrassing or unpleasant"
+    },
+    {
+        "term": "Expose",
+        "definition": "To make known to the public, information that was previously known only to a few people or that was meant to be kept a secret"
+    },
+    {
+        "term": "Fable",
+        "definition": "A traditional short story that teaches a moral lesson (animals)"
+    },
+    {
+        "term": "Fantasy",
+        "definition": "A pleasant situation that you imagine but that is unlikely to happen"
+    },
+    {
+        "term": "Fascist",
+        "definition": "A person who supports an extreme political system or attitude which is in favour of strong central government and causing no opposition"
+    },
+    {
+        "term": "Fatal",
+        "definition": "Causing death"
+    },
+    {
+        "term": "Feline",
+        "definition": "Connected with an animal of the cat family"
+    },
+    {
+        "term": "Flexible",
+        "definition": "Able to change to suit new conditions/ situations"
+    },
+    {
+        "term": "Flora",
+        "definition": "The plants of a particular area, type of environment or period of time"
+    },
+    {
+        "term": "Genealogy",
+        "definition": "The study of family history, including the study of who the ancestors of a particular person were"
+    },
+    {
+        "term": "Geology",
+        "definition": "The study of earth, including the origin and history of the rocks and soil of which the earth is made"
+    },
+    {
+        "term": "Germicide",
+        "definition": "A substance which destroys bacteria, etc."
+    },
+    {
+        "term": "Herbivore",
+        "definition": "Animal that eats only plants"
+    },
+    {
+        "term": "Heretic",
+        "definition": "A person who holds unorthodox opinions"
+    },
+    {
+        "term": "Hijack",
+        "definition": "To use violence or threats to take control of a vehicle, in order to force it to travel to a different place or to demand something from a government"
+    },
+    {
+        "term": "Homage",
+        "definition": "Something that is said/done to show respect for somebody"
+    },
+    {
+        "term": "Homogeneous",
+        "definition": "All (things or people) of the same or similar kind or nature"
+    },
+    {
+        "term": "Horizon",
+        "definition": "The furthest you can see, where the sky seems to meet the land/the sea"
+    },
+    {
+        "term": "Humanitarian",
+        "definition": "Concerned with reducing suffering and improving the conditions that people live in"
+    },
+    {
+        "term": "Hymn",
+        "definition": "A song of praise (to god or to a saint or to a nation)"
+    },
+    {
+        "term": "Idiosyncrasy",
+        "definition": "A person‚Äôs particular way of behaving, thinking, etc., especially when it is unusual"
+    },
+    {
+        "term": "Illicit",
+        "definition": "Not allowed by law"
+    },
+    {
+        "term": "Illiterate",
+        "definition": "Not knowing how to read/ write"
+    },
+    {
+        "term": "Implorer",
+        "definition": "A person who asks somebody to do something because he wants/ needs it very much"
+    },
+    {
+        "term": "Impregnable",
+        "definition": "Strong and impossible to defeat/change"
+    },
+    {
+        "term": "Inaccessible",
+        "definition": "Difficult/ impossible to reach/ to get"
+    },
+    {
+        "term": "Indelible",
+        "definition": "That cannot be removed/erased"
+    },
+    {
+        "term": "Indict",
+        "definition": "Accuse formally of a crime"
+    },
+    {
+        "term": "Ineligible",
+        "definition": "Not having necessary qualifications to have/ do something"
+    },
+    {
+        "term": "Inexorable",
+        "definition": "That cannot be stopped or changed"
+    },
+    {
+        "term": "Interment",
+        "definition": "The act of burying a dead person"
+    },
+    {
+        "term": "Internment",
+        "definition": "The act of confining someone in a prison"
+    },
+    {
+        "term": "Interregnum",
+        "definition": "A period of time during which a country, an organization, etc. does not have a leader and is waiting for a new one"
+    },
+    {
+        "term": "Judge",
+        "definition": "A person in a court who has the authority to decide how criminals should be punished or to make legal decisions"
+    },
+    {
+        "term": "Knell",
+        "definition": "The sound of a bell sung slowly to announce a death/ a funeral/the end of something"
+    },
+    {
+        "term": "Landscape",
+        "definition": "Everything you can see when you look across a large area of land"
+    },
+    {
+        "term": "Lapidist",
+        "definition": "A skilled worker who cuts and engraves precious stones"
+    },
+    {
+        "term": "Laxative",
+        "definition": "A medicine, food/ drink that makes somebody empty their bowels easily"
+    },
+    {
+        "term": "Lease",
+        "definition": "A legal agreement that allows you to use a building piece of equipment/ some land for a period of time, usually in return for rent"
+    },
+    {
+        "term": "Legend",
+        "definition": "A story from ancient times about people and events, that may/may not be true"
+    },
+    {
+        "term": "Loquacious",
+        "definition": "One who talks a lot"
+    },
+    {
+        "term": "Maiden Speech",
+        "definition": "The first speech made by a person"
+    },
+    {
+        "term": "Memorandum",
+        "definition": "A proposal/ report on a particular subject for a person, an organisation, a committee, etc."
+    },
+    {
+        "term": "Mint",
+        "definition": "A place where money is coined by authority of the government"
+    },
+    {
+        "term": "Momentous",
+        "definition": "Very important or serious"
+    },
+    {
+        "term": "Monologue",
+        "definition": "A long speech by one person during a conversation that stops other people from speaking or expressing an opinion"
+    },
+    {
+        "term": "Monotheism",
+        "definition": "The belief that there is only one god"
+    },
+    {
+        "term": "Mortal",
+        "definition": "Subject to death"
+    },
+    {
+        "term": "Mutiny",
+        "definition": "The act of refusing to obey the orders of somebody in authority, especially by soldiers/ sailors"
+    },
+    {
+        "term": "Mystic",
+        "definition": "A person who tries to become united with god through prayer and meditation and so understand important things that are beyond normal human understanding"
+    },
+    {
+        "term": "Neophyte",
+        "definition": "A person who has recently started an activity"
+    },
+    {
+        "term": "Nymphomania",
+        "definition": "The behaviour of a woman who has or wants to have sex very often"
+    },
+    {
+        "term": "Obeisance",
+        "definition": "The act of obeying"
+    },
+    {
+        "term": "Octagon",
+        "definition": "A flat shape with eight straight sides and eight angles"
+    },
+    {
+        "term": "Omnipotent",
+        "definition": "Having total power // able to do anything"
+    },
+    {
+        "term": "Omnipresent",
+        "definition": "Present everywhere"
+    },
+    {
+        "term": "Oncology",
+        "definition": "Study and treatment of tumours"
+    },
+    {
+        "term": "Optician",
+        "definition": "A person whose job is to examine people‚Äôs eyes and to recommend and sell glasses"
+    },
+    {
+        "term": "Opulent",
+        "definition": "Rich and superior in quality"
+    },
+    {
+        "term": "Oration",
+        "definition": "A formal speech made on a public occasion, especially as part of a ceremony"
+    },
+    {
+        "term": "Orator",
+        "definition": "A person who is good at public speaking/ who makes formal speeches"
+    },
+    {
+        "term": "Ornithologist",
+        "definition": "A person who studies birds"
+    },
+    {
+        "term": "Orphan",
+        "definition": "A child whose parents are dead"
+    },
+    {
+        "term": "Paediatrics",
+        "definition": "Branch of medicine concerned with children and their diseases"
+    },
+    {
+        "term": "Pandemonium",
+        "definition": "A situation in which there is a lot of noise, activity and confusion, because people are angry/frightened"
+    },
+    {
+        "term": "Pantheism",
+        "definition": "The belief that god is present in all natural things"
+    },
+    {
+        "term": "Partisan",
+        "definition": "An ardent and enthusiastic supporter of some person/ activity"
+    },
+    {
+        "term": "Pedestrian",
+        "definition": "A person walking and not travelling in a vehicle"
+    },
+    {
+        "term": "Peninsula",
+        "definition": "A large mass of land projecting into a body of water"
+    },
+    {
+        "term": "Philosopher",
+        "definition": "A person who thinks deeply about things"
+    },
+    {
+        "term": "Pilferage",
+        "definition": "The act of stealing small amounts or small articles"
+    },
+    {
+        "term": "Pioneer",
+        "definition": "A person who is the first to study and develop a particular area of knowledge, culture, etc. that other people then continue to develop"
+    },
+    {
+        "term": "Plagiarist",
+        "definition": "Someone who uses another person‚Äôs words/ ideas as if they were his own"
+    },
+    {
+        "term": "Polygon",
+        "definition": "A flat shape with at least three straight sides and three angles, and usually five or more"
+    },
+    {
+        "term": "Polytheist",
+        "definition": "One who believes in a plurality of gods"
+    },
+    {
+        "term": "Prodigy",
+        "definition": "An unusually gifted/intelligent (young) person"
+    },
+    {
+        "term": "Prophet",
+        "definition": "A person sent by god to teach the people and give them messages from god"
+    },
+    {
+        "term": "Proselyte",
+        "definition": "A person who has been converted to another religious or political belief"
+    },
+    {
+        "term": "Protocol",
+        "definition": "A system of fixed rules and formal behaviour used at official meetings"
+    },
+    {
+        "term": "Pun",
+        "definition": "The clever or humorous use of a word that has more than one meaning, or of words that have different meanings but sound the same"
+    },
+    {
+        "term": "Pyromania",
+        "definition": "An obsessive desire to set fire to things"
+    },
+    {
+        "term": "Ransom",
+        "definition": "Money that is paid to kidnappers"
+    },
+    {
+        "term": "Rapacious",
+        "definition": "Greedy for money"
+    },
+    {
+        "term": "Refugee",
+        "definition": "A person who has been forced to leave his country/ home, because there is a war or for political, religious or social reasons"
+    },
+    {
+        "term": "Retaliate",
+        "definition": "Return the same sort of attack / give tit for tat"
+    },
+    {
+        "term": "Retreat",
+        "definition": "To move away from a place // to back off"
+    },
+    {
+        "term": "Rhetoric",
+        "definition": "Speech/writing that is intended to influence people, but that is not completely honest/sincere"
+    },
+    {
+        "term": "Ridicule",
+        "definition": "Unkind remarks that make fun of somebody/ something or make him/ it look silly"
+    },
+    {
+        "term": "Ritual",
+        "definition": "A series of actions that are always performed in the same way, especially as part of a religious ceremony"
+    },
+    {
+        "term": "Sadist",
+        "definition": "A person who gets pleasure from hurting other people"
+    },
+    {
+        "term": "Sanctity",
+        "definition": "The state of being very important and worth protecting"
+    },
+    {
+        "term": "Sanguine",
+        "definition": "Optimistic in an apparently difficult situation"
+    },
+    {
+        "term": "Satire",
+        "definition": "A way of criticizing a person, an idea or an institution in which you use humour to show his/its faults/ weaknesses"
+    },
+    {
+        "term": "Sceptic",
+        "definition": "Someone who habitually doubts accepted beliefs"
+    },
+    {
+        "term": "Scepticism",
+        "definition": "An attitude of doubting that claims/statements that are true and that something will happen"
+    },
+    {
+        "term": "Schedule",
+        "definition": "A plan that lists all the work that you have to do and when you must do each thing"
+    },
+    {
+        "term": "Scholar",
+        "definition": "A person who knows all about a particular subject because he has studied it in detail"
+    },
+    {
+        "term": "Seer",
+        "definition": "A person who claims that he can see what is going to happen in the future"
+    },
+    {
+        "term": "Seismology",
+        "definition": "The scientific study of earthquakes"
+    },
+    {
+        "term": "Septuagenarian",
+        "definition": "A person between the ages of 70 and 79"
+    },
+    {
+        "term": "Socialist",
+        "definition": "A person who believes in or supports the belief that everyone has an equal right to a share of a country‚Äôs wealth and that the government should own and control the main industries"
+    },
+    {
+        "term": "Sojourn",
+        "definition": "A temporary stay (as a guest)"
+    },
+    {
+        "term": "Soporific",
+        "definition": "A drug making you want to go to sleep"
+    },
+    {
+        "term": "Sororicide",
+        "definition": "The murder of one's sister"
+    },
+    {
+        "term": "Suffrage",
+        "definition": "The right to vote in political elections"
+    },
+    {
+        "term": "Summary",
+        "definition": "A brief account of a subject"
+    },
+    {
+        "term": "Superstition",
+        "definition": "The belief that particular events happen in a way that cannot be explained by reason/ science"
+    },
+    {
+        "term": "Sycophant",
+        "definition": "A person who praises important or powerful people too much and in a way that is not sincere, especially in order to get something from them"
+    },
+    {
+        "term": "Synagogue",
+        "definition": "A building where the Jews meet for religious worship and teaching"
+    },
+    {
+        "term": "Taxidermy",
+        "definition": "The art of stuffing dead animals, birds and fish with a special material so that they may look like living ones and can be displayed"
+    },
+    {
+        "term": "Teetotaller",
+        "definition": "A person who does not drink alcohol"
+    },
+    {
+        "term": "Temporal",
+        "definition": "Connected with/ limited by time"
+    },
+    {
+        "term": "Tenacious",
+        "definition": "Sticking together"
+    },
+    {
+        "term": "Terrestrial",
+        "definition": "Living on the land/on the ground, rather than in water/on trees/ in the air"
+    },
+    {
+        "term": "Terrorist",
+        "definition": "A person who uses violent action in order to achieve political aims or to force a government to act"
+    },
+    {
+        "term": "Theism",
+        "definition": "Belief in the existence of god"
+    },
+    {
+        "term": "Theology",
+        "definition": "The study of religion and beliefs"
+    },
+    {
+        "term": "Topology",
+        "definition": "The way the parts of something are arranged and related"
+    },
+    {
+        "term": "Traitor",
+        "definition": "A person who works against his country"
+    },
+    {
+        "term": "Transitory",
+        "definition": "Continuing for only a short time"
+    },
+    {
+        "term": "Trivial",
+        "definition": "Not important or serious // not worth considering"
+    },
+    {
+        "term": "Truant",
+        "definition": "A child who stays away from school without permission"
+    },
+    {
+        "term": "Truism",
+        "definition": "A statement that is clearly true and does not add anything interesting or important to a discussion"
+    },
+    {
+        "term": "Usurer",
+        "definition": "A person who lends money to people at unfairly high rates of interest"
+    },
+    {
+        "term": "Vandal",
+        "definition": "A person who deliberately destroys/damages public property"
+    },
+    {
+        "term": "Venerable",
+        "definition": "Impressive by reason of age // profoundly honoured"
+    },
+    {
+        "term": "Veracious",
+        "definition": "Habitually speaking the truth // precisely accurate"
+    },
+    {
+        "term": "Verbatim",
+        "definition": "Exactly as spoken/written // word for word"
+    },
+    {
+        "term": "Verbose",
+        "definition": "Using/containing more words than are needed"
+    },
+    {
+        "term": "Veteran",
+        "definition": "A person who has a lot of experience in a particular area/activity"
+    },
+    {
+        "term": "Virtuoso",
+        "definition": "Someone who is dazzlingly skilled in any field // a musician who is a master of technique and artistry / a person highly skilled in music"
+    },
+    {
+        "term": "Volley",
+        "definition": "A lot of bullets, stones, arrows etc. that are fired/ thrown at the same time"
+    },
+    {
+        "term": "Vulnerable",
+        "definition": "Weak and easily hurt physically/ emotionally"
+    },
+    {
+        "term": "Zealot",
+        "definition": "A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals"
+    },
+    {
+        "term": "Abandon",
+        "definition": "To leave"
+    },
+    {
+        "term": "Abattoir",
+        "definition": "A place where animals are slaughtered for consumption as food"
+    },
+    {
+        "term": "Aberration",
+        "definition": "A fact, an action or a way of behaving that is not usual, a disorder in one‚Äôs mental state"
+    },
+    {
+        "term": "Abridgement",
+        "definition": "A shortened version of a written work"
+    },
+    {
+        "term": "Absconders",
+        "definition": "A fugitive who runs away and hides to avoid arrest/prosecution"
+    },
+    {
+        "term": "Abstain",
+        "definition": "To choose not to use a vote, either in favour of/ against something"
+    },
+    {
+        "term": "Abstruse",
+        "definition": "Difficult to comprehend obscure"
+    },
+    {
+        "term": "Accolade",
+        "definition": "Praise/an award for an achievement that people admire"
+    },
+    {
+        "term": "Accord",
+        "definition": "Sympathetic compatibility"
+    },
+    {
+        "term": "Accountant",
+        "definition": "A person whose profession is to keep accounts"
+    },
+    {
+        "term": "Acquittal",
+        "definition": "An official decision in court that a person is not guilty of a crime"
+    },
+    {
+        "term": "Acrobat",
+        "definition": "An entertainer who performs difficult acts such as balancing on high ropes (at a circus) // an athlete who performs acts that need skill, agility and coordination"
+    },
+    {
+        "term": "Acronym",
+        "definition": "A word formed from the first letters of the words that make up the name of something"
+    },
+    {
+        "term": "Activist",
+        "definition": "Advocating or engaged in activism"
+    },
+    {
+        "term": "Acumen",
+        "definition": "The ability to make good judgements and take quick decisions"
+    },
+    {
+        "term": "Adept",
+        "definition": "A person who is good at doing something that is quite difficult"
+    },
+    {
+        "term": "Adhere",
+        "definition": "To stick firmly"
+    },
+    {
+        "term": "Adroit",
+        "definition": "Quick or skillful or adept in action or thought"
+    },
+    {
+        "term": "Adventitious",
+        "definition": "Associated by chance and not an integral part"
+    },
+    {
+        "term": "Aesthetic",
+        "definition": "Concerned with beauty or the appreciation of beauty"
+    },
+    {
+        "term": "Aggressive",
+        "definition": "Angry, and behaving in a threatening way"
+    },
+    {
+        "term": "Agitation",
+        "definition": "Worry and anxiety that you show by behaving in a nervous way"
+    },
+    {
+        "term": "Agronomy",
+        "definition": "The application of soil and plant sciences to land management and crop production"
+    },
+    {
+        "term": "Alliteration",
+        "definition": "The use of the same letter/sound at the beginning of words that are close together"
+    },
+    {
+        "term": "Almanac",
+        "definition": "A book is published every year giving information for that year about a particular subject/ activity"
+    },
+    {
+        "term": "Almighty",
+        "definition": "Having complete power"
+    },
+    {
+        "term": "Ambivalent",
+        "definition": "Having or showing both good and bad feelings"
+    },
+    {
+        "term": "Amity",
+        "definition": "A cordial disposition"
+    },
+    {
+        "term": "Amorphous",
+        "definition": "Having no definite form or distinct shape"
+    },
+    {
+        "term": "Anachronism",
+        "definition": "A person, a custom or an idea that seems old-fashioned and does not belong to the present"
+    },
+    {
+        "term": "Animism",
+        "definition": "The belief that plants, objects and natural things each have a living soul"
+    },
+    {
+        "term": "Anniversary",
+        "definition": "The date on which an event happened in some previous year"
+    },
+    {
+        "term": "Anthology",
+        "definition": "A collection of poems, stories, etc. that have been written by different people and published together in a book // A collection of poems"
+    },
+    {
+        "term": "Anthropoid",
+        "definition": "Resembling a human being in form"
+    },
+    {
+        "term": "Anthropologist",
+        "definition": "A person who studies about the human race, its origin, developments, customs and beliefs"
+    },
+    {
+        "term": "Antonyms",
+        "definition": "Words of opposite meanings"
+    },
+    {
+        "term": "Apostasy",
+        "definition": "The state of having rejected your religious beliefs or your political party or a cause"
+    },
+    {
+        "term": "Apostate",
+        "definition": "One who abandons long-held religious or political convictions"
+    },
+    {
+        "term": "Apostle",
+        "definition": "A person who strongly believes in a policy or an idea and tries to make other people believe in it"
+    },
+    {
+        "term": "Appraisal",
+        "definition": "A judgement of the value, performance/nature of somebody/something"
+    },
+    {
+        "term": "Approbation",
+        "definition": "Approval"
+    },
+    {
+        "term": "Aquaphobia",
+        "definition": "An extreme fear of drowning"
+    },
+    {
+        "term": "Archer",
+        "definition": "A person who is expert in the use of a bow and arrow"
+    },
+    {
+        "term": "Armoury",
+        "definition": "A place where arms are kept"
+    },
+    {
+        "term": "Arsonist",
+        "definition": "A criminal who illegally sets fire to property"
+    },
+    {
+        "term": "Arteries",
+        "definition": "Muscular-walled tubes forming part of the circulation system by which blood (mainly that which has been oxygenated) is conveyed"
+    },
+    {
+        "term": "Artisan",
+        "definition": "A person who does skilled work, making things with his hands"
+    },
+    {
+        "term": "Asperity",
+        "definition": "Roughness harshness ill temper irritability"
+    },
+    {
+        "term": "Assign",
+        "definition": "To give somebody something that he can use, or some work or responsibility"
+    },
+    {
+        "term": "Association",
+        "definition": "An official group of people who have joined together for a particular purpose"
+    },
+    {
+        "term": "Assurance",
+        "definition": "A positive declaration intended to give confidence"
+    },
+    {
+        "term": "Asunder",
+        "definition": "Widely separated especially in space"
+    },
+    {
+        "term": "Attempt",
+        "definition": "An act of trying to do something difficult, often with no success"
+    },
+    {
+        "term": "Auditor",
+        "definition": "A qualified accountant who inspects the accounting records and practices of a business/other organisation"
+    },
+    {
+        "term": "Autocrat",
+        "definition": "A ruler who has complete power"
+    },
+    {
+        "term": "Autopsy",
+        "definition": "An official examination of a dead body by a doctor in order to discover the cause of death"
+    },
+    {
+        "term": "Avaricious",
+        "definition": "Having an extreme desire for wealth"
+    },
+    {
+        "term": "Aversion",
+        "definition": "A strong feeling of not liking somebody/ something"
+    },
+    {
+        "term": "Axiom",
+        "definition": "A rule/principle that most people believe to be true"
+    },
+    {
+        "term": "Bachelor",
+        "definition": "A man who remains unmarried"
+    },
+    {
+        "term": "Bald",
+        "definition": "Having little or no hair on the head"
+    },
+    {
+        "term": "Bale",
+        "definition": "A large bundle bound for storage or transport"
+    },
+    {
+        "term": "Banker",
+        "definition": "A person who owns a bank or has an important job at a bank"
+    },
+    {
+        "term": "Barracks",
+        "definition": "A large building/ group of buildings for soldiers to live in"
+    },
+    {
+        "term": "Bashful",
+        "definition": "Disposed to avoid notice"
+    },
+    {
+        "term": "Beast",
+        "definition": "A large/dangerous animal// a person who is cruel and whose behaviour is uncontrolled"
+    },
+    {
+        "term": "Beguile",
+        "definition": "To trick somebody into doing something, by being nice to them"
+    },
+    {
+        "term": "Bellicose",
+        "definition": "A person who is fond of fighting"
+    },
+    {
+        "term": "Benefactor",
+        "definition": "A person who gives money/ other help to a person or an organisation (school, charity)"
+    },
+    {
+        "term": "Bevy",
+        "definition": "A large group of people/things of the same kind girls/young women"
+    },
+    {
+        "term": "Bigamy",
+        "definition": "The crime of marrying somebody when you are still legally married to somebody else"
+    },
+    {
+        "term": "Bilingual",
+        "definition": "Able to speak two languages equally well // written in two languages"
+    },
+    {
+        "term": "Biopsy",
+        "definition": "The removal of tissue from the body of somebody who is ill and its examination in order to find out more about the disease"
+    },
+    {
+        "term": "Bizarre",
+        "definition": "Very strange or unusual"
+    },
+    {
+        "term": "Brunette",
+        "definition": "A white‚Äìskinned woman with dark brown hair"
+    },
+    {
+        "term": "Bulwark",
+        "definition": "A fencelike structure around a deck (usually plural)"
+    },
+    {
+        "term": "Burglar",
+        "definition": "A person who enters a building illegally in order to steal"
+    },
+    {
+        "term": "Cacophony",
+        "definition": "Loud confusing disagreeable sounds"
+    },
+    {
+        "term": "Camouflage",
+        "definition": "The disguising of military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings"
+    },
+    {
+        "term": "Canine",
+        "definition": "Connected with dogs"
+    },
+    {
+        "term": "Capitalist",
+        "definition": "A person who supports the fact that a country‚Äôs businesses and industry are controlled and run by private owners rather than by the government"
+    },
+    {
+        "term": "Captor",
+        "definition": "A person who captures a person/ an animal and keeps him/it as a prisoner"
+    },
+    {
+        "term": "Caravan",
+        "definition": "A covered vehicle, used for living by gypsies"
+    },
+    {
+        "term": "Caricature",
+        "definition": "A funny drawing/ picture of somebody that exaggerates some of his features"
+    },
+    {
+        "term": "Cartographer",
+        "definition": "A person who draws or makes maps"
+    },
+    {
+        "term": "Cartoon",
+        "definition": "An amusing drawing about politics/events in the news"
+    },
+    {
+        "term": "Cavalier",
+        "definition": "A courtly gentle man, especially one acting as a lady‚Äôs escort"
+    },
+    {
+        "term": "Cavalry",
+        "definition": "The part of the army that fought on horses (in the past) // the part of the modern army that uses armoured vehicles"
+    },
+    {
+        "term": "Celestial",
+        "definition": "Of the sky/ heaven"
+    },
+    {
+        "term": "Celibacy",
+        "definition": "The state of living unmarried"
+    },
+    {
+        "term": "Celibate",
+        "definition": "A person who has chosen not to marry"
+    }
+  ]
